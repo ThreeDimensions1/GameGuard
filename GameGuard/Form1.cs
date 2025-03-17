@@ -506,7 +506,7 @@ namespace GameGuard
 
         private void button12_Click(object sender, EventArgs e)
         {
-            //OpenLink("google.com");
+            OpenLink("github.com/ThreeDimensions1/GameGuard");
         }
 
         private void OpenLink(string url)
