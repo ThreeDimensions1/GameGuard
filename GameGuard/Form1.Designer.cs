@@ -89,7 +89,7 @@
             // timer1
             // 
             timer1.Enabled = true;
-            timer1.Interval = 1;
+            timer1.Interval = 1000;
             // 
             // imageList1
             // 
