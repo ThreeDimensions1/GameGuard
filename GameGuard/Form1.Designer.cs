@@ -727,7 +727,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4, 3, 4, 3);
             MaximumSize = new Size(1500, 850);
-            MinimumSize = new Size(530, 300);
+            MinimumSize = new Size(780, 456);
             Name = "Form1";
             Text = "Game Guard - Drink";
             TransparencyKey = Color.Cyan;
