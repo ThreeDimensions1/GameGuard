@@ -2,7 +2,7 @@
 
 ![Logo](GameGuard/banner.png)
 
-Small, simple but powerful reminder of drinking water, eating food, or taking reaks when you work or game.
+Small, simple but powerful reminder of drinking water, eating food, or taking breaks when you work or game.
 
 
 ## Features
