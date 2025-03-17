@@ -137,7 +137,7 @@
             label1.Anchor = AnchorStyles.Top;
             label1.AutoSize = true;
             label1.BackColor = Color.FromArgb(0, 0, 0, 0);
-            label1.Font = new Font("Script MT Bold", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Script MT Bold", 36F, FontStyle.Bold, GraphicsUnit.Point);
             label1.ForeColor = Color.FromArgb(176, 77, 0);
             label1.Location = new Point(252, 87);
             label1.Margin = new Padding(4, 0, 4, 0);
@@ -155,7 +155,7 @@
             button1.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button1.FlatAppearance.BorderSize = 2;
             button1.FlatStyle = FlatStyle.Flat;
-            button1.Font = new Font("Script MT Bold", 15F);
+            button1.Font = new Font("Script MT Bold", 15F, FontStyle.Regular, GraphicsUnit.Point);
             button1.Image = Properties.Resources.restart;
             button1.ImageAlign = ContentAlignment.MiddleLeft;
             button1.Location = new Point(440, 361);
@@ -176,7 +176,7 @@
             button2.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button2.FlatAppearance.BorderSize = 2;
             button2.FlatStyle = FlatStyle.Flat;
-            button2.Font = new Font("Script MT Bold", 14F);
+            button2.Font = new Font("Script MT Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
             button2.Image = Properties.Resources.play;
             button2.ImageAlign = ContentAlignment.MiddleLeft;
             button2.Location = new Point(621, 361);
@@ -194,7 +194,7 @@
             label2.Anchor = AnchorStyles.Top;
             label2.AutoSize = true;
             label2.BackColor = Color.FromArgb(0, 0, 0, 0);
-            label2.Font = new Font("MV Boli", 24.75F);
+            label2.Font = new Font("MV Boli", 24.75F, FontStyle.Regular, GraphicsUnit.Point);
             label2.Location = new Point(604, 170);
             label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
@@ -211,7 +211,7 @@
             button3.FlatAppearance.BorderSize = 0;
             button3.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 90, 214, 252);
             button3.FlatStyle = FlatStyle.Flat;
-            button3.Font = new Font("Poor Richard", 14.9999981F, FontStyle.Bold);
+            button3.Font = new Font("Poor Richard", 14.9999981F, FontStyle.Bold, GraphicsUnit.Point);
             button3.Image = Properties.Resources.settings;
             button3.ImageAlign = ContentAlignment.MiddleLeft;
             button3.Location = new Point(0, 384);
@@ -231,7 +231,7 @@
             button4.FlatAppearance.BorderSize = 0;
             button4.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 90, 214, 252);
             button4.FlatStyle = FlatStyle.Flat;
-            button4.Font = new Font("Poor Richard", 14F, FontStyle.Bold);
+            button4.Font = new Font("Poor Richard", 14F, FontStyle.Bold, GraphicsUnit.Point);
             button4.ForeColor = Color.Black;
             button4.Image = Properties.Resources.bottle_icon;
             button4.ImageAlign = ContentAlignment.MiddleLeft;
@@ -252,7 +252,7 @@
             button5.FlatAppearance.BorderSize = 0;
             button5.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 90, 214, 252);
             button5.FlatStyle = FlatStyle.Flat;
-            button5.Font = new Font("Poor Richard", 14F, FontStyle.Bold);
+            button5.Font = new Font("Poor Richard", 14F, FontStyle.Bold, GraphicsUnit.Point);
             button5.ForeColor = Color.Black;
             button5.Image = Properties.Resources.apple_icon;
             button5.ImageAlign = ContentAlignment.MiddleLeft;
@@ -273,7 +273,7 @@
             button6.FlatAppearance.BorderSize = 0;
             button6.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 90, 214, 252);
             button6.FlatStyle = FlatStyle.Flat;
-            button6.Font = new Font("Poor Richard", 14F, FontStyle.Bold);
+            button6.Font = new Font("Poor Richard", 14F, FontStyle.Bold, GraphicsUnit.Point);
             button6.ForeColor = Color.Black;
             button6.Image = Properties.Resources.clock_icon;
             button6.ImageAlign = ContentAlignment.MiddleLeft;
@@ -355,7 +355,7 @@
             // 
             label7.AutoSize = true;
             label7.BackColor = Color.Transparent;
-            label7.Font = new Font("Poor Richard", 15F);
+            label7.Font = new Font("Poor Richard", 15F, FontStyle.Regular, GraphicsUnit.Point);
             label7.ForeColor = Color.FromArgb(176, 77, 0);
             label7.Location = new Point(55, 12);
             label7.Margin = new Padding(4, 0, 4, 0);
@@ -420,7 +420,7 @@
             button11.FlatAppearance.BorderSize = 0;
             button11.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 90, 214, 252);
             button11.FlatStyle = FlatStyle.Flat;
-            button11.Font = new Font("Poor Richard", 14.9999981F, FontStyle.Bold);
+            button11.Font = new Font("Poor Richard", 14.9999981F, FontStyle.Bold, GraphicsUnit.Point);
             button11.Image = Properties.Resources.settings;
             button11.ImageAlign = ContentAlignment.MiddleLeft;
             button11.Location = new Point(0, 333);
@@ -438,7 +438,7 @@
             label4.Anchor = AnchorStyles.Top;
             label4.AutoSize = true;
             label4.BackColor = Color.FromArgb(0, 0, 0, 0);
-            label4.Font = new Font("MV Boli", 24.75F);
+            label4.Font = new Font("MV Boli", 24.75F, FontStyle.Regular, GraphicsUnit.Point);
             label4.Location = new Point(604, 168);
             label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
@@ -454,7 +454,7 @@
             button8.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button8.FlatAppearance.BorderSize = 2;
             button8.FlatStyle = FlatStyle.Flat;
-            button8.Font = new Font("Script MT Bold", 14F);
+            button8.Font = new Font("Script MT Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
             button8.Image = Properties.Resources.play;
             button8.ImageAlign = ContentAlignment.MiddleLeft;
             button8.Location = new Point(621, 361);
@@ -475,7 +475,7 @@
             button7.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button7.FlatAppearance.BorderSize = 2;
             button7.FlatStyle = FlatStyle.Flat;
-            button7.Font = new Font("Script MT Bold", 15F);
+            button7.Font = new Font("Script MT Bold", 15F, FontStyle.Regular, GraphicsUnit.Point);
             button7.Image = Properties.Resources.restart;
             button7.ImageAlign = ContentAlignment.MiddleLeft;
             button7.Location = new Point(440, 361);
@@ -493,7 +493,7 @@
             label3.Anchor = AnchorStyles.Top;
             label3.AutoSize = true;
             label3.BackColor = Color.FromArgb(0, 0, 0, 0);
-            label3.Font = new Font("Script MT Bold", 36F, FontStyle.Bold);
+            label3.Font = new Font("Script MT Bold", 36F, FontStyle.Bold, GraphicsUnit.Point);
             label3.ForeColor = Color.FromArgb(176, 77, 0);
             label3.Location = new Point(252, 87);
             label3.Margin = new Padding(4, 0, 4, 0);
@@ -578,7 +578,7 @@
             label5.Anchor = AnchorStyles.Top;
             label5.AutoSize = true;
             label5.BackColor = Color.FromArgb(0, 0, 0, 0);
-            label5.Font = new Font("Script MT Bold", 36F, FontStyle.Bold);
+            label5.Font = new Font("Script MT Bold", 36F, FontStyle.Bold, GraphicsUnit.Point);
             label5.ForeColor = Color.FromArgb(176, 77, 0);
             label5.Location = new Point(252, 87);
             label5.Margin = new Padding(4, 0, 4, 0);
@@ -596,7 +596,7 @@
             button9.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button9.FlatAppearance.BorderSize = 2;
             button9.FlatStyle = FlatStyle.Flat;
-            button9.Font = new Font("Script MT Bold", 15F);
+            button9.Font = new Font("Script MT Bold", 15F, FontStyle.Regular, GraphicsUnit.Point);
             button9.Image = Properties.Resources.restart;
             button9.ImageAlign = ContentAlignment.MiddleLeft;
             button9.Location = new Point(440, 361);
@@ -617,7 +617,7 @@
             button10.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button10.FlatAppearance.BorderSize = 2;
             button10.FlatStyle = FlatStyle.Flat;
-            button10.Font = new Font("Script MT Bold", 14F);
+            button10.Font = new Font("Script MT Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
             button10.Image = Properties.Resources.play;
             button10.ImageAlign = ContentAlignment.MiddleLeft;
             button10.Location = new Point(621, 361);
@@ -635,7 +635,7 @@
             label6.Anchor = AnchorStyles.Top;
             label6.AutoSize = true;
             label6.BackColor = Color.FromArgb(0, 0, 0, 0);
-            label6.Font = new Font("MV Boli", 24.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label6.Font = new Font("MV Boli", 24.75F, FontStyle.Regular, GraphicsUnit.Point);
             label6.Location = new Point(604, 165);
             label6.Margin = new Padding(4, 0, 4, 0);
             label6.Name = "label6";
@@ -664,7 +664,7 @@
             button12.FlatAppearance.BorderColor = Color.FromArgb(176, 77, 0);
             button12.FlatAppearance.BorderSize = 2;
             button12.FlatStyle = FlatStyle.Flat;
-            button12.Font = new Font("Poor Richard", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button12.Font = new Font("Poor Richard", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             button12.Image = Properties.Resources.github_mark;
             button12.ImageAlign = ContentAlignment.MiddleLeft;
             button12.Location = new Point(620, 361);
@@ -681,7 +681,7 @@
             // 
             label9.Anchor = AnchorStyles.Top;
             label9.AutoSize = true;
-            label9.Font = new Font("Poor Richard", 15F);
+            label9.Font = new Font("Poor Richard", 15F, FontStyle.Regular, GraphicsUnit.Point);
             label9.ForeColor = Color.Black;
             label9.Location = new Point(404, 333);
             label9.Name = "label9";
@@ -693,7 +693,7 @@
             // 
             label8.Anchor = AnchorStyles.Top;
             label8.AutoSize = true;
-            label8.Font = new Font("Poor Richard", 30F);
+            label8.Font = new Font("Poor Richard", 30F, FontStyle.Regular, GraphicsUnit.Point);
             label8.ForeColor = Color.FromArgb(176, 77, 0);
             label8.Location = new Point(379, 243);
             label8.Name = "label8";
@@ -726,7 +726,6 @@
             Controls.Add(panel2);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4, 3, 4, 3);
-            MaximumSize = new Size(1500, 850);
             MinimumSize = new Size(780, 456);
             Name = "Form1";
             Text = "Game Guard - Drink";
