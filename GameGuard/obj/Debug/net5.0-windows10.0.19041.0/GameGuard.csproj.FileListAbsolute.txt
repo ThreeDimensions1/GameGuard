@@ -1,0 +1,9 @@
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.csproj.AssemblyReference.cache
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.Form1.resources
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.Form2.resources
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.Properties.Resources.resources
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.csproj.GenerateResource.cache
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.AssemblyInfoInputs.cache
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.AssemblyInfo.cs
+C:\Users\smora\source\repos\GameGuard\GameGuard\obj\Debug\net5.0-windows10.0.19041.0\GameGuard.csproj.CoreCompileInputs.cache
