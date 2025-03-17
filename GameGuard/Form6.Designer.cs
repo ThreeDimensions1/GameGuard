@@ -43,7 +43,7 @@
             // timer2
             // 
             timer2.Enabled = true;
-            timer2.Interval = 1000;
+            timer2.Interval = 500;
             timer2.Tick += timer2_Tick;
             // 
             // timer3

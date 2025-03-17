@@ -26,7 +26,7 @@ namespace GameGuard
         {
             if (fadeIn)
             {
-                transparency = transparency + 0.05;
+                transparency = transparency + 0.1;
                 Opacity = transparency;
                 if (transparency == 1)
                 {
@@ -35,7 +35,7 @@ namespace GameGuard
             }
             else
             {
-                transparency = transparency - 0.05;
+                transparency = transparency - 0.1;
                 Opacity = transparency;
                 if (transparency <= 0.1)
                 {
